@@ -1,0 +1,88 @@
+html {
+	margin: 0;
+	padding: 0;
+    }
+
+h2{
+    font-size: 35px;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 1px;
+}
+
+h3{
+    font-size: 20px;
+    font-style: oblique;
+    text-align: center;
+    padding-top: 1px;
+    padding-bottom: 5px;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: lightgoldenrodyellow;
+}
+
+ul {
+    text-align: center;
+}
+
+video {
+    display: block;
+    margin: 0 auto;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+.caption{
+    font-size: 15px;
+    font-style: italic;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.link {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px;
+    margin-right: 10px;
+    color: brown;
+}
+
+.card {
+    background-color: peru;
+    padding: 20px 30px;
+    margin-top: 30px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+}
+
+#headline {
+    font-size: 50px;
+    color: black;
+    text-align: center;
+}
+
+#footer {
+    font-size: 15px;
+    font-style: italic;
+    color: black;
+}
+
+/* .cropped{
+    width: 480;
+    height: 270;
+    object-fit: cover;
+    border: 5px solid black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+} */
